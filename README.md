@@ -1,6 +1,6 @@
 # A hackernews clone built using React, Apollo + GraphQL
 
-This project was built as part of the How To GraphQL tutorial [React & Apollo Tutorial](https://www.howtographql.com/react-apollo/0-introduction/)
+I am building this project as part of the How To GraphQL tutorial [React & Apollo Tutorial](https://www.howtographql.com/react-apollo/0-introduction/)
 
 ## How to use it
 
